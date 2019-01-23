@@ -1,0 +1,10 @@
+======================Exercise Checking Report====================== 
+Exercise No...........: 5
+First Student Details.: 311502397 - Gal Hadour
+Second Student Details: 308223858 - Chen Amon 
+Delivery Date.........: 02 - July - 2017 
+Delivered In Delay....: No 
+Delay Reason..........: -
+Visual Studio Version.: 2015 
+Comments..............: -
+====================End Exercise Checking Report====================

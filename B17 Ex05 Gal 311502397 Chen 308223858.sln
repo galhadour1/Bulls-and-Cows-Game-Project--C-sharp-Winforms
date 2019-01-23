@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B17_Ex05.BullsAndCowsWinApp", "B17_Ex05.BullsAndCowsWinApp\B17_Ex05.BullsAndCowsWinApp.csproj", "{CBF16658-7246-4D5C-BF8A-F1F0F4481196}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D6C3AED-0DE1-4A35-90BC-0587FB8BD6FA}"
+	ProjectSection(SolutionItems) = preProject
+		SUBMIT DN MTA B17 Ex05 GalHadour 311502397 ChenAmon 308223858.txt = SUBMIT DN MTA B17 Ex05 GalHadour 311502397 ChenAmon 308223858.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B17_Ex05.BullsAndCowsGameLogic", "B17_Ex05.BullsAndCowsGameLogic\B17_Ex05.BullsAndCowsGameLogic.csproj", "{C99EA1A1-DFB9-4719-AC54-5A7EA2A59846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF16658-7246-4D5C-BF8A-F1F0F4481196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF16658-7246-4D5C-BF8A-F1F0F4481196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF16658-7246-4D5C-BF8A-F1F0F4481196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF16658-7246-4D5C-BF8A-F1F0F4481196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99EA1A1-DFB9-4719-AC54-5A7EA2A59846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99EA1A1-DFB9-4719-AC54-5A7EA2A59846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99EA1A1-DFB9-4719-AC54-5A7EA2A59846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99EA1A1-DFB9-4719-AC54-5A7EA2A59846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
